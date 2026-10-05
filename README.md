@@ -17,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 <!---LeetCode Topics End-->
