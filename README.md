@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 ## Dynamic Programming
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
