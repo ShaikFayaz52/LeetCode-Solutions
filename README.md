@@ -65,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Array
+|  |
+| ------- |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 <!---LeetCode Topics End-->
