@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 ## Dynamic Programming
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
