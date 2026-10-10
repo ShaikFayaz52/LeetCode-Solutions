@@ -89,7 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
