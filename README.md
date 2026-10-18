@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Hash Table
 |  |
