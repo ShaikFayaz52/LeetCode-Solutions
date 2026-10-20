@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
+| [2235-add-two-integers](https://github.com/ShaikFayaz52/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
